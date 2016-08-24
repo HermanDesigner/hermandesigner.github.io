@@ -93,7 +93,7 @@ input,
 button {
   margin: 0;
   padding: 0;
-  font: 16px 'PT Serif', 'STZhongsong', '华文中宋', 'Microsoft Yahei', '微软雅黑' serif;
+  font: 16px "Helvetica Neue", "Helvetica", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans CN", "WenQuanYi Micro Hei", Arial, sans-serif;
 }
 input::-moz-focus-inner,
 button::-moz-focus-inner {
@@ -114,7 +114,7 @@ body,
 }
 body {
   background: #fff;
-  font: 16px 'PT Serif', 'STZhongsong', '华文中宋', 'Microsoft Yahei', '微软雅黑' serif;
+  font: 16px "Helvetica Neue", "Helvetica", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans CN", "WenQuanYi Micro Hei", Arial, sans-serif;
   -webkit-text-size-adjust: 100%;
 }
 .outer {
@@ -823,7 +823,7 @@ a.article-title:hover,
 }
 .article-entry pre,
 .article-entry code {
-  font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace, '华文中宋';
+  font-family: font-mono;
 }
 .article-entry code {
   background: #f2f2f2;
@@ -882,7 +882,7 @@ a.article-title:hover,
 }
 .article-entry .gist .gist-file {
   border: none;
-  font-family: "Source Code Pro", Consolas, Monaco, Menlo, Consolas, monospace, '华文中宋';
+  font-family: font-mono;
   margin: 0;
 }
 .article-entry .gist .gist-file .gist-data {
@@ -1086,12 +1086,12 @@ pre .php .xml {
 .fancybox-skin {
   padding: 0 !important;
   border-radius: 0;
-  font-family: 'PT Serif', 'STZhongsong', '华文中宋', 'Microsoft Yahei', '微软雅黑' serif;
+  font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans CN", "WenQuanYi Micro Hei", Arial, sans-serif;
 }
 .fancybox-skin .fancybox-title .child {
   background: none;
   font-weight: 400;
   font-size: 16px;
-  font-family: 'PT Serif', 'STZhongsong', '华文中宋', 'Microsoft Yahei', '微软雅黑' serif;
+  font-family: "Helvetica Neue", "Helvetica", "Hiragino Sans GB", "Microsoft YaHei", "Source Han Sans CN", "WenQuanYi Micro Hei", Arial, sans-serif;
   text-shadow: 1px 3px 3px rgba(0,0,0,0.5);
 }
