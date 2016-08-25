@@ -9,13 +9,6 @@
   </url>
   
   <url>
-    <loc>http://curiosity.me/about/index.html</loc>
-    
-    <lastmod>2016-08-06T13:18:01.000Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://curiosity.me/categories/index.html</loc>
     
     <lastmod>2016-08-06T13:18:01.000Z</lastmod>
@@ -24,6 +17,13 @@
   
   <url>
     <loc>http://curiosity.me/tags/index.html</loc>
+    
+    <lastmod>2016-08-06T13:18:01.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://curiosity.me/about/index.html</loc>
     
     <lastmod>2016-08-06T13:18:01.000Z</lastmod>
     
