@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://curiosity.me/about/index.html</loc>
+    
+    <lastmod>2016-08-26T10:06:30.013Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://curiosity.me/baidu_verify_aDxQKcC7fA.html</loc>
     
     <lastmod>2016-08-26T10:00:36.135Z</lastmod>
@@ -17,13 +24,6 @@
   
   <url>
     <loc>http://curiosity.me/categories/index.html</loc>
-    
-    <lastmod>2016-08-06T13:18:01.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://curiosity.me/about/index.html</loc>
     
     <lastmod>2016-08-06T13:18:01.000Z</lastmod>
     
